@@ -3,7 +3,7 @@
 **	Master Thesis Econometrics
 **
 **  Purpose:
-**  	Estimate all ast-GAS model parameters 
+**  	Estimate all t-GAS model parameters 
 **
 **  Date:
 **    	15/08/2015

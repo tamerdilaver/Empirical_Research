@@ -1,19 +1,21 @@
+
 /*
-**	Case Study Financial Econometrics 4.3 
+**	Master Thesis Econometrics
 **
 **  Purpose:
-**  	Estimate all t-GAS model parameters 
+**  	Estimate all ast-GAS model parameters 
 **
 **  Date:
-**    	10/01/2015
+**    	15/08/2015
 **
 **  Author:
-**	  	Tamer Dilaver, Koen de Man & Sina Zolnoor
+**	  	Tamer Dilaver
 **
 **	Supervisor:
-**		L.F. Hoogerheide & S.J. Koopman
+**		Fransisco Blasques
 **
 */
+
 
 #include <oxstd.h>
 #include <oxdraw.h>

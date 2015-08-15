@@ -1,18 +1,18 @@
+
 /*
-**	Case Study Financial Econometrics 4.3 
+**	Master Thesis Econometrics
 **
 **  Purpose:
-**  	Estimate all GARCH model parameters (gamma, omega, alpha and beta)
-**		with Maximum Likelikhood for SBUX return s.t. alpha + beta <1 (Since alpha>0 and beta>0) 
+**  	Estimate all N-GAS model parameters 
 **
 **  Date:
-**    	10/01/2015
+**    	15/08/2015
 **
 **  Author:
-**	  	Tamer Dilaver, Koen de Man & Sina Zolnoor
+**	  	Tamer Dilaver
 **
 **	Supervisor:
-**		L.F. Hoogerheide & S.J. Koopman
+**		Fransisco Blasques
 **
 */
 
